@@ -7,7 +7,7 @@ Minimal starter template using **Vite**, **Preact**, **TypeScript**, and **Tailw
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/schrojf/tailwindcss-vite-preact-ts.git
+git clone https://github.com/schrojf/vite-preact-ts-tailwindcss-template.git
 cd tailwindcss-vite-preact-ts
 npm install
 npm run dev
