@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     preact(),
     legacy({
-      targets: ['cover 99.5%'],
+      targets: ['cover 99.5%'], // '> 0.2%, last 2 versions, Firefox ESR, not dead'
     }),
   ],
 })
